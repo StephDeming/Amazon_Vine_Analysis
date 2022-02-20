@@ -5,6 +5,10 @@ Analyzing Amazon reviews written by members of the paid Amazon Vine program. The
 
 This project analyzes reviews for sports equipment to see if there is any bias towards favorable Vine members. 
 
+## Resources
+
+- Data Source: [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), [Sports Equipment](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz)
+- Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 ## Results: 
 
 How many Vine reviews and non-Vine reviews were there?
